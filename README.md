@@ -184,6 +184,7 @@ Endpoint: `/api/products/:id`
     "id": "integer"
   }
 }
+```
 
 **Response (Respuesta)**:
 
@@ -231,6 +232,7 @@ Endpoint: `/api/products/:id`
     "id": "integer"
   }
 }
+```
 
 **Response (Respuesta)**:
 
@@ -275,6 +277,7 @@ Endpoint: `/api/products_variants/id`
     "id": "integer"
   }
 }
+```
 
 **Response (Respuesta)**:
 
@@ -326,6 +329,7 @@ Endpoint: `/api/products_variants/id`
     "id": "integer"
   }
 }
+```
 
 **Response (Respuesta)**:
 
@@ -379,6 +383,7 @@ Endpoint: `/api/tickets/id`
     "id": "integer"
   }
 }
+```
 
 **Response (Respuesta)**:
 
@@ -456,6 +461,7 @@ Endpoint: `/api/shipping_cost/:id`
     "region": "string"
   }
 }
+```
 
 **Response (Respuesta)**:
 
@@ -519,6 +525,7 @@ Endpoint: `/api/questions/id`
     "id": "integer"
   }
 }
+```
 
 **Response (Respuesta)**:
 
@@ -560,6 +567,7 @@ Endpoint: `/api/questions/:id`
     "id": "integer"
   }
 }
+```
 
 **Response (Respuesta)**:
 
